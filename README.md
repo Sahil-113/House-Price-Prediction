@@ -3,15 +3,15 @@
 This project focuses on building a machine learning model to predict house prices based on various features such as location, size, number of rooms, and amenities. The model leverages regression algorithms to provide accurate price predictions, assisting buyers and sellers in making informed decisions.
 
 # Features
-Exploratory Data Analysis (EDA): Analyzed the dataset to understand key factors influencing house prices and identified trends.
-Data Preprocessing: Handled missing values, outliers, and normalized numerical features for improved model performance.
-Model Development: Implemented Linear Regression, Ridge Regression, and Random Forest Regressor for price prediction.
-Performance Metrics: Evaluated the model using Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² Score.
+1. Exploratory Data Analysis (EDA): Analyzed the dataset to understand key factors influencing house prices and identified trends.
+2. Data Preprocessing: Handled missing values, outliers, and normalized numerical features for improved model performance.
+3. Model Development: Implemented Linear Regression, Ridge Regression, and Random Forest Regressor for price prediction.
+4. Performance Metrics: Evaluated the model using Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² Score.
 # Tools and Technologies
-Programming Language: Python
-Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
-Algorithms: Linear Regression, Ridge Regression, Random Forest Regressor
-Evaluation Metrics: MAE, MSE, R² Score
+1. Programming Language: Python
+2. Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
+3. Algorithms: Linear Regression, Ridge Regression, Random Forest Regressor
+4. Evaluation Metrics: MAE, MSE, R² Score
 # Dataset
 1. The dataset used is a publicly available House Price Dataset, containing features like property size, location, year built, and number of bedrooms.
 2. Applied data preprocessing techniques to clean and structure the dataset for efficient model training.
