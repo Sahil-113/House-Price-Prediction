@@ -18,7 +18,7 @@ The House Price Prediction Model is a machine learning project designed to estim
 
 🎯 Deployment Ready: Can be integrated into a web app using Flask/Streamlit.
 
-##📂 Dataset
+## 📂 Dataset
 
 The dataset contains various house features, including:
 
@@ -38,7 +38,7 @@ Proximity to amenities
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/house-price-prediction.git
+git clone https://github.com/0173cs221113/house-price-prediction.git
 cd house-price-prediction
 
 ### 2️⃣ Install Dependencies
