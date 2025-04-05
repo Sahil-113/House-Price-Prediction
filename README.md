@@ -49,10 +49,6 @@ pip install -r requirements.txt
 
 python train.py
 
-### 4️⃣ Deploy as a Web App (Optional)
-
-streamlit run app.py
-
 ## 🛠️ Tech Stack
 
 Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
